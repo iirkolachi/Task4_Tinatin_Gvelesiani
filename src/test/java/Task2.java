@@ -11,7 +11,7 @@ public class Task2 {
                 case 'ი':
                 case 'ო':
                 case 'უ':
-                    System.out.println("სიმბოლო " + symbol + " არის ხმოვანი");
+                    System.out.println("თქვენ მიერ შეყვანილი სიმბოლო " + "'" + symbol + "'" + " არის ხმოვანი.");
                     break;
                 case 'ბ':
                 case 'გ':
@@ -41,7 +41,7 @@ public class Task2 {
                 case 'ხ':
                 case 'ჯ':
                 case 'ჰ':
-                    System.out.println("სიმბოლო " + symbol + " არის თანხმოვანი");
+                    System.out.println("თქვენ მიერ შეყვანილი სიმბოლო " + "'" + symbol + "'" + " არის თანხმოვანი.");
                     break;
                 default:
                     System.out.println("შეიყვანეთ სწორი სიმბოლო!");
